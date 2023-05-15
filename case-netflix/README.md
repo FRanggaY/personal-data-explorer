@@ -6,16 +6,16 @@
 ## Summary
 ### Bar Chart Rating
 
-<!-- image here -->
+![Bar Chart Rating](https://github.com/FRanggaY/personal-data-explorer/blob/master/case-netflix/exports/netflix-indonesia/Rating%20Netflix%20Indonesia.png)
 
 ### Bar Chart Release Month
 
-<!-- image here -->
+![Bar Chart Release Month](https://github.com/FRanggaY/personal-data-explorer/blob/master/case-netflix/exports/netflix-indonesia/Release%20Month%20Netflix%20Indonesia.png)
 
 ### Bar Chart Release Year
 
-<!-- image here -->
+![Bar Chart Release Year](https://github.com/FRanggaY/personal-data-explorer/blob/master/case-netflix/exports/netflix-indonesia/Release%20Year%20Netflix%20Indonesia.png)
 
-### Bar Chart Release Type
+### Bar Chart Type
+![Bar Chart Type](https://github.com/FRanggaY/personal-data-explorer/blob/master/case-netflix/exports/netflix-indonesia/Type%20Netflix%20Indonesia.png)
 
-<!-- image here -->
